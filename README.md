@@ -18,3 +18,11 @@ Infrared Receiver: Reacts to button presses on the remote control, allowing comm
 ELEGOO IR Remote: Used to send commands for Arduino execution.
 830-Hole Breadboard: Allows for electronic circuit creation without soldering.
 Male-to-Male and Male-to-Female Jumper Wires: Facilitate building circuits.
+
+Extended Documentation on GitHub
+
+For a more comprehensive version of this documentation, including images, please refer to the ReadMePL file uploaded to the GitHub repository.
+
+Language Configuration
+
+Notifications from the program, as well as information displayed on the LCD screen, are presented in the Polish language, ensuring a user-friendly experience for Polish-speaking users.
