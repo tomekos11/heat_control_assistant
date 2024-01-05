@@ -3,7 +3,7 @@
 #include <ArduinoJson.h>
 
 const char* ssid = "Poco F5";
-const char* password = "#T0meczek!!";
+const char* password = "123";
 const char* discordServerAddress = "https://discord.com/api/webhooks/1180942362697007174/FsqEZ-OewmxBlL80kcGlFR5AyVUGpTd-ZpWq06tHh6w-v1hMrapcOjZZCa5R7y0Sh6WD";  // Adres serwera docelowego
 const char* timeServerAddress = "http://worldtimeapi.org/api/timezone/Europe/Warsaw";
 const int serverPort = 80;  // Port serwera HTTP
